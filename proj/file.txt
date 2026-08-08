@@ -1,0 +1,3 @@
+Automated job search plat
+
+Firecrawl-scrapper
