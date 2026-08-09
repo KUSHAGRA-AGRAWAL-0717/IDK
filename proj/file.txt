@@ -1,3 +1,5 @@
 Automated job search platform
 
 with use of claude connector Firecrawl-scrapper
+
+Day 2
