@@ -1,1 +1,8 @@
-!
+name: scan-number
+version: 1.0.0
+description: A simple number scanning application
+
+deployment:
+	environment: development
+	replicas: 1
+	port: 8080
