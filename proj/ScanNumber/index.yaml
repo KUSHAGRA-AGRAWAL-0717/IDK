@@ -1,8 +1,8 @@
 name: scan-number
 version: 1.0.0
-description: A simple number scanning application
+description: A scalable number scanning application for processing and analyzing numeric input
 
 deployment:
-	environment: development
-	replicas: 1
-	port: 8080
+    environment: development
+    replicas: 3
+    port: 8080
